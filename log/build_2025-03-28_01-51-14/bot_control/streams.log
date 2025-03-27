@@ -1,0 +1,34 @@
+[0.013s] Invoking command in '/home/ayush/Documents/ayush_ws/build/bot_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ayush/Documents/ayush_ws/build/bot_control -- -j12 -l12
+[0.051s] [ 50%] [32mBuilding CXX object CMakeFiles/reading_laser.dir/scripts/reading_laser.cpp.o[0m
+[5.692s] [100%] [32m[1mLinking CXX executable reading_laser[0m
+[5.976s] [100%] Built target reading_laser
+[5.985s] Invoked command in '/home/ayush/Documents/ayush_ws/build/bot_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ayush/Documents/ayush_ws/build/bot_control -- -j12 -l12
+[5.986s] Invoking command in '/home/ayush/Documents/ayush_ws/build/bot_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ayush/Documents/ayush_ws/build/bot_control
+[5.991s] -- Install configuration: ""
+[5.991s] -- Installing: /home/ayush/Documents/ayush_ws/install/bot_control/lib/bot_control/reading_laser
+[5.995s] -- Set runtime path of "/home/ayush/Documents/ayush_ws/install/bot_control/lib/bot_control/reading_laser" to ""
+[5.995s] -- Up-to-date: /home/ayush/Documents/ayush_ws/install/bot_control/share/bot_control/description
+[5.995s] -- Up-to-date: /home/ayush/Documents/ayush_ws/install/bot_control/share/bot_control/description/gazebo_control.xacro
+[5.995s] -- Up-to-date: /home/ayush/Documents/ayush_ws/install/bot_control/share/bot_control/description/inertial_macros.xacro
+[5.995s] -- Up-to-date: /home/ayush/Documents/ayush_ws/install/bot_control/share/bot_control/description/bot_structure.urdf.xacro
+[5.995s] -- Up-to-date: /home/ayush/Documents/ayush_ws/install/bot_control/share/bot_control/description/lidar.xacro
+[5.995s] -- Up-to-date: /home/ayush/Documents/ayush_ws/install/bot_control/share/bot_control/launch
+[5.995s] -- Up-to-date: /home/ayush/Documents/ayush_ws/install/bot_control/share/bot_control/launch/rviz.launch.py
+[5.995s] -- Up-to-date: /home/ayush/Documents/ayush_ws/install/bot_control/share/bot_control/scripts
+[5.995s] -- Installing: /home/ayush/Documents/ayush_ws/install/bot_control/share/bot_control/scripts/reading_laser.cpp
+[5.995s] -- Up-to-date: /home/ayush/Documents/ayush_ws/install/bot_control/share/ament_index/resource_index/package_run_dependencies/bot_control
+[5.995s] -- Up-to-date: /home/ayush/Documents/ayush_ws/install/bot_control/share/ament_index/resource_index/parent_prefix_path/bot_control
+[5.995s] -- Up-to-date: /home/ayush/Documents/ayush_ws/install/bot_control/share/bot_control/environment/ament_prefix_path.sh
+[5.995s] -- Up-to-date: /home/ayush/Documents/ayush_ws/install/bot_control/share/bot_control/environment/ament_prefix_path.dsv
+[5.995s] -- Up-to-date: /home/ayush/Documents/ayush_ws/install/bot_control/share/bot_control/environment/path.sh
+[5.995s] -- Up-to-date: /home/ayush/Documents/ayush_ws/install/bot_control/share/bot_control/environment/path.dsv
+[5.995s] -- Up-to-date: /home/ayush/Documents/ayush_ws/install/bot_control/share/bot_control/local_setup.bash
+[5.996s] -- Up-to-date: /home/ayush/Documents/ayush_ws/install/bot_control/share/bot_control/local_setup.sh
+[5.996s] -- Up-to-date: /home/ayush/Documents/ayush_ws/install/bot_control/share/bot_control/local_setup.zsh
+[5.996s] -- Up-to-date: /home/ayush/Documents/ayush_ws/install/bot_control/share/bot_control/local_setup.dsv
+[5.996s] -- Installing: /home/ayush/Documents/ayush_ws/install/bot_control/share/bot_control/package.dsv
+[5.996s] -- Up-to-date: /home/ayush/Documents/ayush_ws/install/bot_control/share/ament_index/resource_index/packages/bot_control
+[5.996s] -- Up-to-date: /home/ayush/Documents/ayush_ws/install/bot_control/share/bot_control/cmake/bot_controlConfig.cmake
+[5.996s] -- Up-to-date: /home/ayush/Documents/ayush_ws/install/bot_control/share/bot_control/cmake/bot_controlConfig-version.cmake
+[5.996s] -- Up-to-date: /home/ayush/Documents/ayush_ws/install/bot_control/share/bot_control/package.xml
+[5.997s] Invoked command in '/home/ayush/Documents/ayush_ws/build/bot_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ayush/Documents/ayush_ws/build/bot_control
