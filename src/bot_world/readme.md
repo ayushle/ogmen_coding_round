@@ -7,7 +7,7 @@ The `bot_world` package is responsible for **defining the simulation environment
 
 ## 📁 Directory Structure
 
-```
+```  
 bot_world/
 │── launch/          # Contains launch files
 │   ├── spawn.launch.py  # Spawns the robot inside the world
@@ -19,7 +19,7 @@ bot_world/
 │── CMakeLists.txt   # CMake build configuration
 │── package.xml      # Package metadata
 │── README.md        # Documentation
-```
+```  
 
 
 
@@ -27,6 +27,6 @@ bot_world/
 
 ### **1️⃣ Launching the Gazebo World**
 To launch the simulation environment in Gazebo and spawn bot in that:
-```bash
-ros2 launch bot_world spawn.launch.py
-```
+```  bash
+        ros2 launch bot_world spawn.launch.py
+```  
