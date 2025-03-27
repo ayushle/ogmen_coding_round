@@ -5,7 +5,7 @@ The bot_description package defines the robot model using URDF/Xacro and provide
 
 ## 📁 Directory Structure
 
-'''
+```  
 bot_description/
 │── launch/          # Contains all launch files
     │── rviz.launch.py
@@ -20,7 +20,7 @@ bot_description/
     │── bot.rviz
 │── CMakeLists.txt   # CMake build configuration
 │── package.xml      # Package metadata
-'''
+```  
 
 
 ## 📁 Directory Structure
@@ -28,15 +28,15 @@ bot_description/
 ### **1️⃣ Visualizing the Robot in RViz
 ```bash    
         roslaunch bot_description rviz.launch.py
-'''
+```  
 ### **12️⃣ Spawn Model in Gazebo World
 ```bash  
         roslaunch bot_description spawn.launch.py
-'''
+```  
 ### **3️⃣ Control Model in Gazebo World
 ```bash  
         roslaunch bot_description control.launch.py
-'''
+```  
 
 
 
