@@ -26,16 +26,16 @@ bot_description/
 ## 📁 Directory Structure
 
 ### **1️⃣ Visualizing the Robot in RViz
-'''bash
-roslaunch bot_description rviz.launch.py
+```bash    
+        roslaunch bot_description rviz.launch.py
 '''
 ### **12️⃣ Spawn Model in Gazebo World
-'''bash
-roslaunch bot_description spawn.launch.py
+```bash  
+        roslaunch bot_description spawn.launch.py
 '''
 ### **3️⃣ Control Model in Gazebo World
-'''bash
-roslaunch bot_description control.launch.py
+```bash  
+        roslaunch bot_description control.launch.py
 '''
 
 
